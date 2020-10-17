@@ -15,8 +15,9 @@ E-LEARNING WEBSITE
 
 After Creating Database,
 
-9th Step: Open a browser and go to URL “http://localhost/College-Notes-Gallery”
+9th Step: Open a browser and go to URL “http://localhost/Edutor-main”
 
-ADMIN LOGIN:   
+*ADMIN LOGIN*   
+
 Username:admin
 Password:admin
